@@ -1,0 +1,27 @@
+﻿@model SeniorCare.Domain.Entities.Paciente
+@{
+    ViewData["Title"] = "Detalle";
+}
+<h2>Detalle del Paciente</h2>
+<div class="row">
+    <div class="col-lg-6">
+        <dl class="row">
+            <dt class="col-sm-4">Nombre</dt>
+            <dd class="col-sm-8">@Model.Nombre</dd>
+            <dt class="col-sm-4">Teléfono</dt>
+            <dd class="col-sm-8">@Model.Telefono</dd>
+            <dt class="col-sm-4">Correo</dt>
+            <dd class="col-sm-8">@Model.Correo</dd>
+            <dt class="col-sm-4">Dirección</dt>
+            <dd class="col-sm-8">@Model.Direccion</dd>
+            <dt class="col-sm-4">Tipo Sangre</dt>
+            <dd class="col-sm-8">@Model.TipoSangre</dd>
+            <dt class="col-sm-4">Cédula</dt>
+            <dd class="col-sm-8">@Model.Cedula</dd>
+            <dt class="col-sm-4">Nacimiento</dt>
+            <dd class="col-sm-8">@Model.FechaNacimiento.ToShortDateString()</dd>
+        </dl>
+        <a class="btn btn-secondary btn-lg" asp-action="Index">Volver</a>
+    </div>
+</div>
+

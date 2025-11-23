@@ -1,0 +1,74 @@
+﻿:root {
+    --card-size: 110px;
+    --gap-size: 12px;
+    --font-big: 1.2rem;
+}
+
+@media (max-width: 576px) {
+    :root {
+        --card-size: 80px;
+        --gap-size: 8px;
+        --font-big: 1.05rem;
+    }
+}
+
+/* Panel superior */
+.estadistica {
+    font-size: var(--font-big);
+}
+
+/* Tablero */
+.tablero {
+    display: grid;
+    gap: var(--gap-size);
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+/* Carta */
+.carta {
+    width: var(--card-size);
+    height: var(--card-size);
+    border-radius: 16px;
+    border: 2px solid #e5e7eb;
+    display: grid;
+    place-items: center;
+    font-size: 2rem;
+    background: #f1f5f9;
+    cursor: pointer;
+    user-select: none;
+    transition: transform .15s ease, background .2s ease, box-shadow .2s ease;
+}
+
+    .carta:focus {
+        outline: 3px solid #2b8eff55;
+    }
+
+    .carta.bloqueada {
+        cursor: default;
+    }
+
+    .carta:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 16px rgba(0,0,0,.06);
+    }
+
+    .carta .frente, .carta .dorso {
+        display: none;
+    }
+
+    .carta.revelada .frente,
+    .carta:not(.revelada) .dorso {
+        display: block;
+    }
+
+    /* Estados */
+    .carta.acierto {
+        background: #d1fae5;
+        border-color: #10b981;
+    }
+
+    .carta.fallo {
+        background: #fee2e2;
+        border-color: #ef4444;
+    }

@@ -1,0 +1,16 @@
+﻿@model SeniorCare.Domain.Entities.Cita
+@{
+	ViewData["Title"] = "Detalle de Cita";
+}
+<h2>Detalle de Cita</h2>
+<dl class="row">
+	<dt class="col-sm-3">Paciente</dt>
+	<dd class="col-sm-9">@Model.Paciente?.Nombre</dd>
+	<dt class="col-sm-3">Fecha</dt>
+	<dd class="col-sm-9">@Model.Fecha.ToString("yyyy-MM-dd")</dd>
+	<dt class="col-sm-3">Hora</dt>
+	<dd class="col-sm-9">@Model.Hora</dd>
+	<dt class="col-sm-3">Propósito</dt>
+	<dd class="col-sm-9">@Model.Proposito</dd>
+</dl>
+<a class="btn btn-secondary btn-lg" asp-action="Index">Volver</a>

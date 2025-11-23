@@ -1,0 +1,11 @@
+﻿@model SeniorCare.Domain.Entities.Paciente
+@{
+	ViewData["Title"] = "Eliminar";
+}
+<h2>¿Eliminar paciente?</h2>
+<p class="lead">Esta acción eliminará el registro de <strong>@Model.Nombre</strong>.</p>
+<form asp-action="Delete" method="post">
+	<input type="hidden" asp-for="Id" />
+	<button class="btn btn-danger btn-lg" type="submit">Eliminar</button>
+	<a class="btn btn-secondary btn-lg" asp-action="Index">Cancelar</a>
+</form>

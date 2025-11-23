@@ -1,0 +1,10 @@
+﻿@model SeniorCare.Domain.Entities.Paciente
+@{
+	ViewData["Title"] = "Nuevo Paciente";
+}
+<h2>Nuevo Paciente</h2>
+<form asp-action="Create" method="post">
+	<partial name="_Form" />
+	<button class="btn btn-primary btn-lg" type="submit">Guardar</button>
+	<a class="btn btn-secondary btn-lg" asp-action="Index">Volver</a>
+</form>

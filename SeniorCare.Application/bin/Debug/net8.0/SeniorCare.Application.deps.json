@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SeniorCare.Application/1.0.0": {
+        "dependencies": {
+          "SeniorCare.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SeniorCare.Application.dll": {}
+        }
+      },
+      "SeniorCare.Domain/1.0.0": {
+        "runtime": {
+          "SeniorCare.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SeniorCare.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SeniorCare.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

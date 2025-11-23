@@ -1,0 +1,12 @@
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\bin\Debug\net8.0\SeniorCare.Domain.deps.json
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\bin\Debug\net8.0\SeniorCare.Domain.dll
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\bin\Debug\net8.0\SeniorCare.Domain.pdb
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\obj\Debug\net8.0\SeniorCare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\obj\Debug\net8.0\SeniorCare.Domain.AssemblyInfoInputs.cache
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\obj\Debug\net8.0\SeniorCare.Domain.AssemblyInfo.cs
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\obj\Debug\net8.0\SeniorCare.Domain.csproj.CoreCompileInputs.cache
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\obj\Debug\net8.0\SeniorCare.Domain.sourcelink.json
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\obj\Debug\net8.0\SeniorCare.Domain.dll
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\obj\Debug\net8.0\refint\SeniorCare.Domain.dll
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\obj\Debug\net8.0\SeniorCare.Domain.pdb
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Domain\obj\Debug\net8.0\ref\SeniorCare.Domain.dll

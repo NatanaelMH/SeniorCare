@@ -1,0 +1,13 @@
+﻿@model SeniorCare.Domain.Entities.Cita
+@{
+	ViewData["Title"] = "Cancelar Cita";
+}
+<h2>¿Cancelar esta cita?</h2>
+<p class="lead">
+	<strong>@Model.Paciente?.Nombre</strong> — @Model.Fecha.ToString("yyyy-MM-dd") @Model.Hora
+</p>
+<form asp-action="Delete" method="post">
+	<input type="hidden" asp-for="Id" />
+	<button class="btn btn-danger btn-lg" type="submit">Cancelar</button>
+	<a class="btn btn-secondary btn-lg" asp-action="Index">Volver</a>
+</form>

@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+<div class="row g-4">
+    <div class="col-md-6 col-lg-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h3 class="card-title">Pacientes</h3>
+                <p class="card-text">Gestione pacientes: crear, buscar, editar y eliminar.</p>
+                <a class="btn btn-primary btn-lg" asp-controller="Pacientes" asp-action="Index">Entrar</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-lg-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h3 class="card-title">Citas</h3>
+                <p class="card-text">Agende y consulte citas próximas en lista o calendario.</p>
+                <a class="btn btn-success btn-lg" asp-controller="Citas" asp-action="Index">Entrar</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6 col-lg-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h3 class="card-title">Juegos</h3>
+                <p class="card-text">Entretenimiento con juegos de memoria sencillos.</p>
+                <a class="btn btn-secondary btn-lg" asp-controller="Juegos" asp-action="Index">Entrar</a>
+            </div>
+        </div>
+    </div>
+</div>

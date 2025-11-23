@@ -1,0 +1,60 @@
+﻿@model SeniorCare.Domain.Entities.Cita
+@{
+    ViewData["Title"] = "Nueva Cita";
+}
+
+<h2>Nueva Cita</h2>
+
+<!-- Muestra errores generales del modelo -->
+<div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="row">
+        <div class="col-md-6 col-lg-5">
+
+            <!-- Paciente -->
+            <div class="mb-3">
+                <label asp-for="PacienteId" class="form-label">Paciente</label>
+                <select asp-for="PacienteId"
+                        asp-items="ViewBag.Pacientes"
+                        class="form-select form-select-lg">
+                    <option value="">-- Seleccione un paciente --</option>
+                </select>
+                <span asp-validation-for="PacienteId" class="text-danger"></span>
+            </div>
+
+            <!-- Fecha -->
+            <div class="mb-3">
+                <label asp-for="Fecha" class="form-label">Fecha</label>
+                <input asp-for="Fecha" type="date" class="form-control form-control-lg" />
+                <span asp-validation-for="Fecha" class="text-danger"></span>
+            </div>
+
+            <!-- Hora -->
+            <div class="mb-3">
+                <label asp-for="Hora" class="form-label">Hora</label>
+                <input asp-for="Hora" type="time" class="form-control form-control-lg" />
+                <span asp-validation-for="Hora" class="text-danger"></span>
+            </div>
+
+            <!-- Propósito -->
+            <div class="mb-3">
+                <label asp-for="Proposito" class="form-label">Propósito</label>
+                <input asp-for="Proposito" class="form-control form-control-lg" />
+                <span asp-validation-for="Proposito" class="text-danger"></span>
+            </div>
+
+            <div class="d-flex gap-2">
+                <button class="btn btn-success btn-lg" type="submit">Guardar</button>
+                <a class="btn btn-secondary btn-lg" asp-action="Index">Volver</a>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <!-- Si tu plantilla trae jQuery validation, esto habilita validación cliente -->
+   
+}

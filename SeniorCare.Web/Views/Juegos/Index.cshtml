@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Juegos de Memoria";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/memoria.css" />
+}
+
+<div class="container-sm">
+    <h2 class="mb-3">Juegos de Memoria</h2>
+
+    <div class="card shadow-sm mb-3">
+        <div class="card-body d-flex flex-wrap gap-3 align-items-center">
+            <div class="d-flex align-items-center gap-2">
+                <label class="form-label mb-0">Dificultad:</label>
+                <select id="dificultad" class="form-select form-select-lg">
+                    <option value="4">Fácil (4x4)</option>
+                    <option value="5">Media (5x4)</option>
+                    <option value="6">Difícil (6x4)</option>
+                </select>
+            </div>
+            <button id="btnIniciar" class="btn btn-primary btn-lg">Iniciar</button>
+            <button id="btnReiniciar" class="btn btn-secondary btn-lg" disabled>Reiniciar</button>
+
+            <div class="ms-auto d-flex gap-4">
+                <div class="estadistica"><strong>Movimientos:</strong> <span id="movimientos">0</span></div>
+                <div class="estadistica"><strong>Tiempo:</strong> <span id="tiempo">00:00</span></div>
+                <div class="estadistica"><strong>Pares:</strong> <span id="pares">0</span></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="tablero" class="tablero" aria-label="Tablero de juego de memoria"></div>
+
+    <div id="mensajeFin" class="alert alert-success mt-3 d-none" role="alert"></div>
+</div>
+
+@section Scripts {
+    <script src="~/js/memoria.js"></script>
+}

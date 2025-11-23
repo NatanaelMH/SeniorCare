@@ -1,0 +1,16 @@
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\bin\Debug\net8.0\SeniorCare.Application.deps.json
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\bin\Debug\net8.0\SeniorCare.Application.dll
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\bin\Debug\net8.0\SeniorCare.Application.pdb
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\bin\Debug\net8.0\SeniorCare.Domain.dll
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\bin\Debug\net8.0\SeniorCare.Domain.pdb
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\SeniorCare.Application.csproj.AssemblyReference.cache
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\SeniorCare.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\SeniorCare.Application.AssemblyInfoInputs.cache
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\SeniorCare.Application.AssemblyInfo.cs
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\SeniorCare.Application.csproj.CoreCompileInputs.cache
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\SeniorCare.Application.sourcelink.json
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\SeniorCa.38044125.Up2Date
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\SeniorCare.Application.dll
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\refint\SeniorCare.Application.dll
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\SeniorCare.Application.pdb
+C:\Practicas Programacion 1\ItlaPartices\Proyecto final asistente digital\SeniorCare\SeniorCare.Application\obj\Debug\net8.0\ref\SeniorCare.Application.dll
