@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeniorCare.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9aa76ab14d724da945a8ea893f103e4fb7acc7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd31cc596fd55495fd58f0462f2d9963878f10e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeniorCare.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeniorCare.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

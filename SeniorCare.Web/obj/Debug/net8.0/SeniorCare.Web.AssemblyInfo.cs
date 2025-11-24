@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeniorCare.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33842c48217d5945d40b6240cc1fec8046a29362")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd31cc596fd55495fd58f0462f2d9963878f10e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeniorCare.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeniorCare.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
