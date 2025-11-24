@@ -1,5 +1,6 @@
 # Registro de Cambios - SeniorCare
 
-- Ajustes en el m骴ulo de pacientes.
+- Ajustes en el m贸dulo de pacientes.
+- Ajustes en el m贸dulo de citas (gesti贸n de horarios y estados).
+- Mejoras en el m贸dulo de medicamentos (dosis y recordatorios).
 
-- Ajustes en el m骴ulo de citas (gesti髇 de horarios y estados).
