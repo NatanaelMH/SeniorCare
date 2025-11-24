@@ -1,10 +1,18 @@
 # Registro de Cambios - SeniorCare
 
-- Ajustes en el módulo de pacientes.
 
-- Ajustes en el módulo de citas (gestión de horarios y estados).
-
-- Mejoras en el módulo de medicamentos (dosis y recordatorios).
-
-- Cambios en el módulo de contactos (contactos de emergencia).
+- Ajustes en el mï¿½dulo de pacientes.
+- Ajustes en el mï¿½dulo de citas (gestiï¿½n de horarios y estados).
+- Mejoras en el mï¿½dulo de medicamentos (dosis y recordatorios).
+- Cambios en el mï¿½dulo de contactos (contactos de emergencia).
 - Ajustes en los juegos de memoria para adultos mayores.
+- Ajustes en el mï¿½dulo de pacientes.
+- Ajustes en el mï¿½dulo de citas (gestiï¿½n de horarios y estados).
+- Mejoras en el mï¿½dulo de medicamentos (dosis y recordatorios).
+- Cambios en el mï¿½dulo de contactos (contactos de emergencia).
+- Ajustes en el mÃ³dulo de pacientes.
+- Ajustes en el mÃ³dulo de citas (gestiÃ³n de horarios y estados).
+- Mejoras en el mÃ³dulo de medicamentos (dosis y recordatorios).
+
+
+
