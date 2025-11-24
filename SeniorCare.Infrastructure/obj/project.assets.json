@@ -4763,11 +4763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Practicas Programacion 1\\ItlaPartices\\Proyecto final asistente digital\\SeniorCare\\SeniorCare.Infrastructure\\SeniorCare.Infrastructure.csproj",
+      "projectUniqueName": "C:\\ItlaPartices\\Senior Care\\SeniorCare.Infrastructure\\SeniorCare.Infrastructure.csproj",
       "projectName": "SeniorCare.Infrastructure",
-      "projectPath": "C:\\Practicas Programacion 1\\ItlaPartices\\Proyecto final asistente digital\\SeniorCare\\SeniorCare.Infrastructure\\SeniorCare.Infrastructure.csproj",
+      "projectPath": "C:\\ItlaPartices\\Senior Care\\SeniorCare.Infrastructure\\SeniorCare.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Natan\\.nuget\\packages\\",
-      "outputPath": "C:\\Practicas Programacion 1\\ItlaPartices\\Proyecto final asistente digital\\SeniorCare\\SeniorCare.Infrastructure\\obj\\",
+      "outputPath": "C:\\ItlaPartices\\Senior Care\\SeniorCare.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4788,11 +4788,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Practicas Programacion 1\\ItlaPartices\\Proyecto final asistente digital\\SeniorCare\\SeniorCare.Application\\SeniorCare.Application.csproj": {
-              "projectPath": "C:\\Practicas Programacion 1\\ItlaPartices\\Proyecto final asistente digital\\SeniorCare\\SeniorCare.Application\\SeniorCare.Application.csproj"
+            "C:\\ItlaPartices\\Senior Care\\SeniorCare.Application\\SeniorCare.Application.csproj": {
+              "projectPath": "C:\\ItlaPartices\\Senior Care\\SeniorCare.Application\\SeniorCare.Application.csproj"
             },
-            "C:\\Practicas Programacion 1\\ItlaPartices\\Proyecto final asistente digital\\SeniorCare\\SeniorCare.Domain\\SeniorCare.Domain.csproj": {
-              "projectPath": "C:\\Practicas Programacion 1\\ItlaPartices\\Proyecto final asistente digital\\SeniorCare\\SeniorCare.Domain\\SeniorCare.Domain.csproj"
+            "C:\\ItlaPartices\\Senior Care\\SeniorCare.Domain\\SeniorCare.Domain.csproj": {
+              "projectPath": "C:\\ItlaPartices\\Senior Care\\SeniorCare.Domain\\SeniorCare.Domain.csproj"
             }
           }
         }
